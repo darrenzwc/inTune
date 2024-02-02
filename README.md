@@ -9,4 +9,4 @@ Overtones and simple harmonics can become quite confusing. inTune provides a way
 
 
 ## Website Demo
-# [Live Demo](https://darrens-dynamite-site-c77c4a.webflow.io/main)
+# [Live Demo](https://darrens-dynamite-site-c77c4a.webflow.io/)
